@@ -5,5 +5,6 @@
 - Clone
 - Commit
 - Push
-- Fetch
-- Pull
+- Fetch!
+- Pull!
+- Branch!
