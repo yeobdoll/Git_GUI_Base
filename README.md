@@ -8,4 +8,4 @@
 - Fetch!
 - Pull!
 - Branch!
-- Conflict
+- Merge Conflict
