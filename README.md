@@ -4,3 +4,4 @@
 
 - Clone
 - Commit
+- Push
