@@ -8,5 +8,11 @@
 - Fetch!
 - Pull!
 - Branch!
+- Checkout
+
+
+
+
+
 - Merge Conflict
-- Meld from GitHub
+- Merge Conflict: Meld
