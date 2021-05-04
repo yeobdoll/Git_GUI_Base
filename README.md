@@ -5,3 +5,5 @@
 - Clone
 - Commit
 - Push
+- Fetch
+- Pull
