@@ -9,10 +9,6 @@
 - Pull!
 - Branch!
 - Checkout
-
-
-
-
-
 - Merge Conflict
 - Merge Conflict: Meld
+- Edit from GitHub
